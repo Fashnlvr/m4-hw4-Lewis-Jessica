@@ -12,8 +12,16 @@ header, footer {
 }
 
 .center-list {
+    display: flex;
+    flex-direction: column;
     align-items: center;
     list-style-type: disc;
+    padding: 0;
+}
+
+.center-list {
+    text-align: left;
+    width: fit-content;
 }
 
 h1 {
