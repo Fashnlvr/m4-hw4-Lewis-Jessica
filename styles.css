@@ -1,11 +1,19 @@
 body {
     font-size: 16px;
     color: black;
-    background-color: gray;
+    background-color: white;
     text-align: center;
 }
 
 header, footer {
     background-color: gray;
     color: purple;
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.special-text {
+    color: orchid;
 }
