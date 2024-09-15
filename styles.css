@@ -26,3 +26,11 @@ img {
     display: block;
     margin: auto;
 }
+
+.link, .link-active {
+    background-color: blue;
+}
+
+div.link > p {
+    color: pink;
+}
