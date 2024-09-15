@@ -11,7 +11,7 @@ header, footer {
     color: rgb(82, 5, 82);
 }
 
-.center list {
+.center-list {
     align-items: center;
     list-style-type: disc;
 }
