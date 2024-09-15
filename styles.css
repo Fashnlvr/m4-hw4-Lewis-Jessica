@@ -1,6 +1,11 @@
 body {
     font-size: 16px;
-    color: #333;
-    background-color: #f4f4f4;
+    color: black;
+    background-color: gray;
     text-align: center;
+}
+
+header, footer {
+    background-color: gray;
+    color: purple;
 }
